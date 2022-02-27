@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of a most barbarous and bloody murther, committed by Esther Ives, with the assistance of John Noyse a cooper; on the body of William Ives, her husband, at Rumsey in Hampshire, on the fifth day of February 1686. : Together with the miraculous and wonderful discovery of the murther and murtherers. : As also an account of their tryals at the last assizes, holden at Winchester, where being found guilty of the said murther, they received sentence of death, viz. John Noyse to be hang'd, and Esther Ives to be burnt. : With their manner of behaviour and execution, according to the said sentence.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84959</idno>
+            <idno type="STC">Wing F2293D</idno>
+            <idno type="STC">ESTC R177220</idno>
+            <idno type="EEBO-CITATION">45097791</idno>
+            <idno type="OCLC">ocm 45097791</idno>
+            <idno type="VID">171378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of a most barbarous and bloody murther, committed by Esther Ives, with the assistance of John Noyse a cooper; on the body of William Ives, her husband, at Rumsey in Hampshire, on the fifth day of February 1686. : Together with the miraculous and wonderful discovery of the murther and murtherers. : As also an account of their tryals at the last assizes, holden at Winchester, where being found guilty of the said murther, they received sentence of death, viz. John Noyse to be hang'd, and Esther Ives to be burnt. : With their manner of behaviour and execution, according to the said sentence.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, R.P."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, William, d. 1687.</term>
+               <term>Ives, Esther, d. 1687.</term>
+               <term>Noyes, John, d. 1687.</term>
+               <term>Murder --  England --  Hampshire.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171378:1" rendition="simple:additions"/>
+            <p>A Full and True ACCOUNT OF A MOST <hi>Barbarous</hi> and <hi>Bloody</hi> MURTHER, COMMITTED By <hi>Esther Ives,</hi> with the Aſſiſtance of <hi>John Noyſe</hi> a Cooper; on the Body of <hi>William Ives,</hi> her Husband, at <hi>Rum<g ref="char:EOLhyphen"/>ſey</hi> in <hi>Hampſhire,</hi> on the Fifth day of <hi>February</hi> 1686. Together with the Miraculous and Wonderful Diſcovery of the Murther and Murtherers.</p>
+            <p>AS ALSO An Account of their TRYALS at the laſt Aſſizes, holden at <hi>Wincheſter,</hi> where being found guilty of the ſaid Mur<g ref="char:EOLhyphen"/>ther, they received Sentence of Death, <hi>viz. John Noyſe</hi> to be Hang'd, and <hi>Eſther Ive<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to be Burnt. With their manner of Behaviour and Execution, according to the ſaid Sentence.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>This may be Printed,</p>
+                  <closer>
+                     <signed>R. P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>GoldenBall</hi> in <hi>Pye-corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171378:2"/>
+            <pb n="3" facs="tcp:171378:2" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT OF A MOST <hi>Barbarous</hi> and <hi>Bloody</hi> MURTHER, COMMITTED</head>
+            <p>By <hi>Eſther Ives,</hi> with the Aſſiſtance of <hi>John Noyſe</hi> a Cooper; on the Body of <hi>William Ives,</hi> her Husband, at <hi>Rum<g ref="char:EOLhyphen"/>ſey</hi> in <hi>Hampſhire,</hi> on the Fifth day of <hi>February,</hi> 1686.</p>
+            <p>MAny and Notorious have been the Murthers of late committed by divers Wicked People, and in ſundry manners: But I think none in the Horridneſs of the Action can exceed, if paral<g ref="char:EOLhyphen"/>lel, what I am about to relate; and for which, as you will plainly find, the Hand of Juſtice overtook the Murtherers and brought them to their deſerved Puniſhment. The Relation of which, take as followeth.</p>
+            <pb n="4" facs="tcp:171378:3"/>
+            <p> In <hi>Weſt-Weller,</hi> a place in the County of <hi>Hants</hi> or <hi>Hampſhire</hi> about two miles from the Town of <hi>Rumſey,</hi> Lived one <hi>John Noyſe,</hi> by Trade a Cooper, but a Perſon of ill Fame, and a very deſolute Liver. This Man keeping Company, in a more familiar manner, than was conveni<g ref="char:EOLhyphen"/>ent, with the Wife of one <hi>William Ives,</hi> who kept a Victualling-Houſe in <hi>Rumſey,</hi> known by the ſign of the <hi>Hatchet.</hi> On the fifth day of <hi>February</hi> laſt, h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtayed there drinking till about one or two of the clock in the morning, at what time, as it afterward appeared, <hi>Ives</hi>'s Wife and <hi>Noyſe</hi> having conſpired againſt <hi>Ives,</hi> Murthered him by ſtrangling or breaking his Neck, to make a freer way for their unlawful Luſt; Or as it is conjectured, be<g ref="char:EOLhyphen"/>ing rid of h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, they might Marry. However <hi>Ives</hi> his Children, who were in the Houſe, having notice that their Father was dead, which their Mother had poſſeſſed them happened naturally or ſuddenly, they fell into loud La<g ref="char:EOLhyphen"/>mentations; which the Town Bell-man, being then upon his Rounds, hearing, and much deſirous to know the cauſe of the Childrens cryes at ſo unſeaſonable a time, came under the Window of <hi>Ives</hi>'s Houſe and calling to them, demanded the reaſon? who, with mournful voices, told him their Father was dead. At which, the Bell-man being ſomewhat ſurpriſed, for that a little before, he h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d heard <hi>Ives</hi> in a kind of a diſorderly or confuſed Tone, cry out or ſay; What doſt thou do to me, <hi>Noyſe?</hi> went and ac<g ref="char:EOLhyphen"/>quainted the Conſtable of the Watch therewith: who ta<g ref="char:EOLhyphen"/>king along with him a Guard, came to the Houſe of the ſaid <hi>Ives;</hi> and upon their coming thither, found that the Wife had been abroad to light a Candle; and likewiſe at a Houſe, known by the Sign of the <hi>Black Boy;</hi> and there
+<pb n="5" facs="tcp:171378:3" rendition="simple:additions"/> had called up the Woman, to have of her Some Strong-water; under pretence that her Husband was very much indiſpoſed: but upon their entering the Houſe of <hi>Ives,</hi> and going up ſtairs; they found <hi>Noyſe</hi> and <hi>Eſther Ives</hi> the Wife, very buſie about <hi>Ives,</hi> who was indeed dead, in dreſſing him: <hi>viz.</hi> putting on his Breeches, Stockings, Shoes, and other wearing Apparel; having newly as was ſuppoſed, taken him out of his Bed, it being then warm. The Deſign of which, as many imagined, and they in part confeſſed was, that being ſo cloathed; they would have tumbled him down Stairs, that ſo the Bruiſes ther by occaſi<g ref="char:EOLhyphen"/>oned might colour the Pretence they intended to make: that he accidently and unfortunately fell down them, and ſo conſequentl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had loſt his Life. But they being known to be People of bad Converſations, the Conſtable would not be ſo ſatisfied; but with the Light he then had, proceeded to make a narrower Inſpection into the unhappy Buſineſs: Cauſing the Dead Body to be diligently ſearched, ſecuring at the ſame time <hi>Noyſe</hi> and <hi>Eſther Ives,</hi> as ſuſpecting the matter to be otherwiſe than they pretended; whoſe pre<g ref="char:EOLhyphen"/>tence then was, that he dyed ſuddenly of ſome extraordi<g ref="char:EOLhyphen"/>nary Diſtemper, at which they could not gueſs. But upon a narrow ſearch of the Body, much violence ap<g ref="char:EOLhyphen"/>peared to be done to the Neck of the Party deceaſed, ei<g ref="char:EOLhyphen"/>ther by ſtrangling or twiſting; inſomuch that the Blood had iſſued from him in abundance, and ſtained the the Pillow whereon his head had lain; as alſo upon his Shirt: And it further appeared, that through the vehemen<g ref="char:EOLhyphen"/>cy of his Strugling and Contending for Life, his Water had come from him, with which not only his Shirt, but part of the Bed was wet.</p>
+            <pb n="6" facs="tcp:171378:4"/>
+            <p> Theſe plain ſigns and palpable demonſtrations of a Murther, made the Conſtable, and thoſe that were his Attendance, make a narrower ſearch upon the Criminals; and thereupon found much Blood upon <hi>Eſther Ives,</hi> ſuppoſed and verily con<g ref="char:EOLhyphen"/>jectured to proceed from her Husband; either when ſhe was Aſſiſtant to <hi>Noyſe,</hi> in perpetrating the wicked and unnatural Murther; or when ſhe went about to remove him. However that night they were both ſecured, and the next day carried before a Juſtice; who, upon examining the Buſi<g ref="char:EOLhyphen"/>neſs, and by the two Chyrurgeons that viewed the Body, finding it Murther, according to the Circum<g ref="char:EOLhyphen"/>ſtances as before-mentioned; &amp; they having nothing material to offer in their own defence, committed them to <hi>Rumſey</hi> Gaol, where they continued in order to their Tryals, till the Judges came in their Circuit to <hi>Wincheſter</hi> in the County aforeſaid; to hold there the <hi>Lenten Aſſize:</hi> at what time, being brought from <hi>Rumſey</hi> to <hi>Wincheſter,</hi> in order to take their Tryals, the Coroners Inqueſt having before found it wilful Murther.</p>
+            <p>The Aſſize<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aforeſaid, being held on the <hi>24th.</hi> day of <hi>February</hi> laſt, they were brought to their Tryals: where <hi>Noyſe,</hi> after the Evidence was
+<pb n="7" facs="tcp:171378:4"/> given againſt him, as to the Circumſtances of the Murther, pleaded in his own defence; That being in <hi>Ives</hi>'s his Houſe, a Quarel hap<g ref="char:EOLunhyphen"/>pened between the ſaid <hi>Ives</hi> and his Wife, and that all that he did on that occaſion, was only to interpoſe, that he might do the good Office of part<g ref="char:EOLhyphen"/>ing them: but <hi>Eſther Ives,</hi> did in Court declare that <hi>Noyſe</hi> was the Perſon who Murther'd her Husband. Upon which, and the other Circumſtances, the Ju<g ref="char:EOLhyphen"/>ry after ſome conſideration of the Matter of Fact; gave in their Verdict, That <hi>John Noyſe</hi> and <hi>Eſther Ives,</hi> were guilty of the wilful Murther whereof they ſtood Indicted. So that in the cloſe of the Aſſize, they accordingly received Sentence of Death, <hi>Viz.</hi> the former to be Hang'd and the latter to be Burnt; and ſo returned to Priſon, in order to be Executed according to the ſaid Sentences.</p>
+            <p>The <hi>11th.</hi> day of <hi>March,</hi> the day appoin<g ref="char:EOLhyphen"/>ted for their Execution being come, they were by the Sheriffs Officers taken our of <hi>Wincheſter</hi> Gaol: where for ſome days they had remained, to bewail their Wicked and Barbarous Act; and being placed upon one Horſe, were in that manner conveyed to <hi>Rumſey,</hi> the place ordered for their Execution; Where <hi>John Noyſe</hi>
+               <pb n="8" facs="tcp:171378:5"/> turning to the Spectators, who came to ſee him Executed, deſired them, eſpecially the younger ſort, above all things, not to prophane the Sabbath-day, but to keep it with all Reverence and due Regard; as likewiſe, to refrain from Drunkenneſs, which occaſions ſo many evils and miſchiefs in the world. He confeſſed he had long kept company with <hi>Eſther Ives,</hi> in a laſcivious and unlawful Manner. After this and ſome other Expreſſions, he went up the Ladder, and vvhen the Rope vvas made faſt, tur<g ref="char:EOLhyphen"/>ned himſelf off; and about half an hour after, vvas cut down, in order to his Interment or Burial.</p>
+            <p>
+               <hi>Eſther Ives</hi> being brought to the Stake, ſaid very little; but being faſtened thereto, and the Fewel placed about her; after the Executioner had ſtrang<g ref="char:EOLhyphen"/>led her, the Fire was kindled, and ſhe conſumed to Aſhes. And thus, Reader, the miſerable Wretches came to a ſhameful, though a deſerved end; which I hope may be a Warning to deter others from com<g ref="char:EOLhyphen"/>mitting the like Crime.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
